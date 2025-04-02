@@ -16,3 +16,16 @@ Check out my [GitHub](https://github.com/XDawn66).
 Link to the quote section: [Link Text](#quote).
 
 Link to the other md : [click me](/README.md)
+
+Unorder list:
+- item 1
+- item 2
+
+Order list:
+1. item 1
+2. item 2
+
+My task list:
+- [x] Do homework
+- [x] buy food
+- [ ] go sleep
